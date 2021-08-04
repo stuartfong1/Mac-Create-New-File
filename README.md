@@ -4,7 +4,7 @@ This is a simple program in Automator that allows you to create a new file from 
 ### Setup
 1. Put Create New File.workflow in your <User>/Library/Services folder
 2. Go to System Preferences > Keyboard > Shortcuts
-3. Scroll to the bottom and assign a shortcut to "Create New File" (I used Option-Command-N)
+3. Scroll to the bottom and assign a shortcut to "Create New File" (I use Option-Command-N)
   
 ### Instructions
 1. Open Finder
