@@ -1,7 +1,7 @@
 # Mac Create New File
 This is a simple program in Automator that allows you to create a new file from Finder. 
 
-![Screenshot](https://i.imgur.com/zOqL8SN.png)
+![Screenshot](https://i.imgur.com/uXXKYIs.png)
 
 ### Setup
 1. Put Create New File.workflow in your <User>/Library/Services folder
