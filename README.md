@@ -1,5 +1,5 @@
 # Mac Create New File
-This is a simple program in Automator that allows you to create a new file from Finder. 
+This is a simple program that allows you to create a new file from Finder. 
 
 ![Screenshot](https://i.imgur.com/uXXKYIs.png)
 
